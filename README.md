@@ -3,7 +3,10 @@ Back Propagation
 Overview
 This project focuses on predicting turbine performance using machine learning models, specifically a Backpropagation Neural Network (BP) and a benchmark Linear Regression model (MLR). The implementation is in Python, leveraging libraries such as pandas, numpy, scikit-learn, and matplotlib.
 
-![Uploading slide_231.jpg…]()
+![slide_231](https://github.com/kamillok505/A1/assets/151350933/fcb4b80b-9928-45bd-9c0c-f6f7053999f2)
+
+
+
 
 Table of Contents
 Description of Implementation
